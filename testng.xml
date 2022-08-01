@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/itsbe/IdeaProjects/MyAPITesting">
+        <classes>
+            <class name="restAssuredTestNG.FAKE01_GET_All_Request"/>
+            <class name="restAssuredTestNG.FAKE01_GET_Single_Request"/>
+            <class name="restAssuredTestNG.FAKE02_POST_Single_Record"/>
+            <class name="restAssuredTestNG.FAKE03_PUT_Record"/>
+            <class name="restAssuredTestNG.FAKE04_DELETE_Record"/>
+        </classes>
+    </test>
+</suite>

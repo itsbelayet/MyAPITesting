@@ -1,0 +1,11 @@
+restAssuredTestNG\FAKE04_DELETE_Record.class
+restAssuredTestNG\RestUtils.class
+restAssuredTestNG\FAKE01_GET_Single_Request.class
+restAssuredTestNG\TestRestAssured.class
+restAssuredTestNG\FAKE03_PUT_Record.class
+restAssuredTestNG\TestBase.class
+restAssuredTestNG\TC001_GET_Request.class
+restAssuredTestNG\TC002_GET_Request_FakeAPI.class
+restAssuredTestNG\FAKE01_GET_All_Request.class
+restAssuredTestNG\TC002_POST_Request.class
+restAssuredTestNG\FAKE02_POST_Single_Record.class
